@@ -1,0 +1,1 @@
+A ko-grid extension which persists column widths.
